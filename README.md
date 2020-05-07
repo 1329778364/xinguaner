@@ -1,5 +1,5 @@
 
-- [详细开发文档](http://note.youdao.com/noteshare?id=944025dcd03275fd9819bb0713731a3b&sub=A40C3A0FCFE540C1A84555610BF075A1
+  - [详细开发文档](http://note.youdao.com/noteshare?id=944025dcd03275fd9819bb0713731a3b&sub=A40C3A0FCFE540C1A84555610BF075A1
 ) 
 
 ThinkPHP 6.0
